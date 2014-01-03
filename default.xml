@@ -479,7 +479,6 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/broadcom/wingray" name="android_vendor_broadcom_wingray" remote="schischu" revision="android-4.3" />
-  <project path="vendor/moto/stingray" name="android_vendor_moto_wingray" remote="schischu" revision="android-4.3" />
   <project path="vendor/nvidia/wingray" name="android_vendor_nvidia_wingray" remote="schischu" revision="android-4.3" />
   <project path="vendor/moto/wingray" name="android_vendor_moto_wingray" remote="schischu" revision="android-4.3" />
   <project path="device/moto/stingray-kernel" name="xoom-ElementalX" remote="schischu" revision="master" />
