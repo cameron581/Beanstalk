@@ -21,7 +21,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="scotthartbti/android" revision="kk44" />
+  <project path="android" name="cameron581/android" revision="kk44" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" />
@@ -475,4 +475,7 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
+  <project path="vendor/broadcom/wingray" name="android_vendor_broadcom_wingray" remote="schischu" revision="android-4.3" />
+  <project path="vendor/moto/stingray" name="android_vendor_moto_wingray" remote="schischu" revision="android-4.3" />
+  <project path="vendor/nvidia/wingray" name="android_vendor_nvidia_wingray" remote="schischu" revision="android-4.3" />
 </manifest>
