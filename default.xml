@@ -26,7 +26,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="scotthartbti/platform_build" revision="kk44" remote="gh" >
+  <project path="build" name="Schischu/android_build" revision="kk44" remote="gh" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -489,5 +489,5 @@
   <project path="vendor/nvidia/wingray" name="android_vendor_nvidia_wingray" remote="schischu" revision="android-4.3" />
   <project path="vendor/moto/wingray" name="android_vendor_moto_wingray" remote="schischu" revision="android-4.3" />
   <project path="device/moto/stingray-kernel" name="xoom-ElementalX" remote="schischu" revision="master" />
-  <project path="device/moto/wingray" name="android_device_moto_wingray" remote="schischu" revision="android-4.4" />
+  <project path="device/moto/wingray" name="android_device_moto_wingray" remote="schischu" revision="cm-11.0" />
 </manifest>
