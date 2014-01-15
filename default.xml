@@ -432,5 +432,14 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
-
+  <project name="razrqcom-dev-team/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0-caf" />
+  <project name="razrqcom-dev-team/android_device_motorola_xt1028" path="device/motorola/xt1028" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/android_device_motorola_xt1032" path="device/motorola/xt1032" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/android_device_motorola_xt1034" path="device/motorola/xt1034" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="cm-11.0-caf" />
+  <project name="razrqcom-dev-team/android_hardware_qcom_audio-msm8226" path="hardware/qcom/audio-msm8226" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/android_hardware_qcom_display-msm8226" path="hardware/qcom/display-msm8226" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/android_hardware_qcom_media-msm8226" path="hardware/qcom/media-msm8226" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/proprietary_vendor_motorola" path="vendor/motorola" remote="gh" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="gh" revision="cm-11.0" />
 </manifest>
