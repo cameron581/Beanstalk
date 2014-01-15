@@ -9,7 +9,10 @@
 
   <remote  name="ln"
            fetch="git://android.git.linaro.org/" />
-           
+ 
+  <remote  name="github"
+           fetch="https://github.com" />       
+  
   <remote  name="gh"
            fetch="https://github.com" />
 
