@@ -26,7 +26,7 @@
            remote="aosp"
            sync-j="8" />
 
-  <project path="build" name="android_build" remote="ls" revision="kitkat">
+  <project path="build" name="android_build" remote="ls" revision="kitkat" />
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="cameron581/Beastalk" remote="gh" revision="ls44/>
