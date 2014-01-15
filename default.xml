@@ -28,7 +28,6 @@
 
   <project path="build" name="android_build" remote="ls" revision="kitkat" />
     <copyfile src="core/root.mk" dest="Makefile" />
-  </project>
   <project path="android" name="cameron581/Beastalk" remote="gh" revision="ls44" />
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="art" name="android_art" remote="ls" revision="kitkat" />
