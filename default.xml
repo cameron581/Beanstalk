@@ -34,7 +34,7 @@
   <project path="android" name="cameron581/Beanstalk" remote="gh" revision="ls44" />
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="art" name="android_art" remote="ls" revision="kitkat" />
-  <project path="bionic" name="platform/bionic" remote="ls" revision="kitkat" />
+  <project path="bionic" name="android_bionic" remote="ls" revision="kitkat" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-11.0" />
   <project path="dalvik" name="android_dalvik" remote="ls" revision="kitkat" />
