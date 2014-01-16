@@ -8,7 +8,7 @@
   <remote  name="github"
            fetch="https://github.com" /> 
            
-    <remote  name="gh"
+  <remote  name="gh"
            fetch="https://github.com/" /> 
 
   <remote  name="private"
