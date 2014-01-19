@@ -27,7 +27,7 @@
            sync-j="8" />
 
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="pdk,linux,arm" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-LK" name="CL3Kener/linaro-kernel" remote="github" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-LK" name="CL3Kener/LINARO-KERNEL" remote="github" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-SM" name="sabermod_rom_toolchain" remote="ls" revision="4.9.0" />
   <project name="razrqcom-dev-team/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0-caf" />
   <project name="razrqcom-dev-team/android_device_motorola_xt1028" path="device/motorola/xt1028" remote="github" revision="cm-11.0" />
