@@ -23,7 +23,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="scotthartbti/platform_build" revision="kk44" remote="gh" >
+  <project path="build" name="cameron581/platform_build" revision="kk44" remote="gh" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
