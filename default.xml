@@ -4,6 +4,9 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
 
+  <remote  name="github"
+           fetch="https://github.com/" />
+           
   <remote  name="gh"
            fetch="https://github.com/" />
 
@@ -26,7 +29,7 @@
            remote="aosp"
            sync-j="8" />
 
-  <project path="build" name="android_build" remote="ls" revision="kitkat">
+  <project path="build" name="cameron581/android_build" remote="gh" revision="kitkat">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="cameron581/Manifest" remote="gh" revision="ls44" />
@@ -414,4 +417,14 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="cm-11.0-caf" />
+  <project name="razrqcom-dev-team/android_hardware_qcom_audio-msm8226" path="hardware/qcom/audio-msm8226" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/android_hardware_qcom_display-msm8226" path="hardware/qcom/display-msm8226" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/android_hardware_qcom_media-msm8226" path="hardware/qcom/media-msm8226" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/proprietary_vendor_motorola" path="vendor/motorola" remote="gh" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="gh" revision="cm-11.0" />
+  <project path="prebuilts/gcc/linux-x86/arm/LINARO-master" name="Cl3Kener/LINARO" remote="github" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/LINARO-kernel" name="Cl3Kener/LINARO-KERNEL" remote="github" revision="master" />
+  <project name="deadman96385/android_device_motorola_xt1034" path="device/motorola/xt1034" remote="github" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0-caf" />
 </manifest>
