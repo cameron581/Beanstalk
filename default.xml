@@ -29,7 +29,7 @@
            remote="aosp"
            sync-j="8" />
 
-  <project path="build" name="cameron581/android_build" remote="gh" revision="kitkat">
+  <project path="build" name="cameron581/android_build" remote="gh" revision="kitkat2">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="cameron581/Manifest" remote="gh" revision="ls44" />
