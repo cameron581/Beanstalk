@@ -27,6 +27,6 @@
            sync-j="8" />
 
   
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-LK" name="Cl3Kener/LINARO-KERNEL" remote="github" revision="master" />
-  <project name="cameron581/kernel" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0-caf" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-SM" name="LiquidSmooth/sabermod_rom_toolchain" remote="gh" revision="4.9.0" />
+  
 </manifest>
