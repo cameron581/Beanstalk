@@ -27,6 +27,6 @@
            sync-j="8" />
 
   
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-SM" name="LiquidSmooth/sabermod_rom_toolchain" remote="gh" revision="4.9.0" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-SM" name="LiquidSmooth/sabermod_rom_toolchain" remote="github" revision="4.9.0" />
   
 </manifest>
