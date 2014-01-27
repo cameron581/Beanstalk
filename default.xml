@@ -427,5 +427,5 @@
   <project name="cameron581/android_device_motorola_xt1034" path="device/motorola/xt1034" remote="github" revision="cm-11.0" />
   <project name="cameron581/android_kernel_motorola_msm8226-1" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0-caf" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="pdk,linux,arm" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-LK" name="CleKener/LINARO-KERNEL" remote="gh" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-LK" name="Cl3Kener/LINARO-KERNEL" remote="gh" revision="master" />
 </manifest>
