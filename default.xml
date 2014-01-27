@@ -457,7 +457,7 @@
   <project path="packages/apps/OSEPapers" name="packages_apps_OSEPapers" remote="ose" revision="ose" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ose" revision="ose" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ose" revision="ose" />
-  <project path="platform_manifest" name="cameron581/Manifest" remote="github" revision="ose" />
+  <project path="platform_manifest" name="platform_manifest" remote="ose" revision="ose" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-LK" name="linaro-hammer" remote="ose" revision="ose" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-SM" name="sabermod_rom_toolchain" remote="ose" revision="4.9.0" />
   <project path="scripts" name="OSE" remote="ose" revision="ose" >
@@ -468,6 +468,7 @@
   <project path="system/media" name="system_media" remote="ose" revision="ose" />
   <project path="vendor/ose" name="vendor_ose" remote="ose" revision="ose" >
     <copyfile src="tools/build-ose.sh" dest="build-ose.sh" />
+  </project>
     
   <project name="cameron581/kernel" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0-caf" />
   <project name="razrqcom-dev-team/android_device_motorola_xt1028" path="device/motorola/xt1028" remote="github" revision="cm-11.0" />
