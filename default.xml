@@ -476,6 +476,6 @@
   <project name="razrqcom-dev-team/android_hardware_qcom_audio-msm8226" path="hardware/qcom/audio-msm8226" remote="github" revision="cm-11.0" />
   <project name="razrqcom-dev-team/android_hardware_qcom_display-msm8226" path="hardware/qcom/display-msm8226" remote="github" revision="cm-11.0" />
   <project name="razrqcom-dev-team/android_hardware_qcom_media-msm8226" path="hardware/qcom/media-msm8226" remote="github" revision="cm-11.0" />
-  <project name="razrqcom-dev-team/proprietary_vendor_motorola" path="vendor/motorola" remote="gh" revision="cm-11.0" />
-  <project name="CyanogenMod/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="gh" revision="cm-11.0" />
+  <project name="razrqcom-dev-team/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="github" revision="cm-11.0" />
 </manifest>
