@@ -457,7 +457,7 @@
   <project path="packages/apps/OSEPapers" name="packages_apps_OSEPapers" remote="ose" revision="ose" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ose" revision="ose" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ose" revision="ose" />
-  <project path="platform_manifest" name="cameron581/platform_manifest" remote="gh" revision="ose" />
+  <project path="platform_manifest" name="cameron581/platform_manifest" remote="github" revision="ose" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-LK" name="linaro-hammer" remote="ose" revision="ose" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-SM" name="sabermod_rom_toolchain" remote="ose" revision="4.9.0" />
   <project path="scripts" name="OSE" remote="ose" revision="ose" >
