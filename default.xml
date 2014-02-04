@@ -27,6 +27,5 @@
            sync-j="8" />
 
   
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-SM" name="LiquidSmooth/sabermod_rom_toolchain" remote="github" revision="4.9.0" />
-  
+  <project path="kernel/motorola/msm8226" name="LiquidSmooth/android_kernel_motorola_msm8226" remote="gh" revision="kitkat" />
 </manifest>
