@@ -484,7 +484,7 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project name="LiquidSmooth/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="github" revision="kitkat" />
-  <project name="razrqcom-dev-team/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0" />
+  <project name="cameron581/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="kk" />
   <project name="razrqcom-dev-team/android_device_motorola_xt1028" path="device/motorola/xt1028" remote="github" revision="cm-11.0" />
   <project name="razrqcom-dev-team/android_device_motorola_xt1032" path="device/motorola/xt1032" remote="github" revision="cm-11.0" />
   <project name="razrqcom-dev-team/android_device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="cm-11.0" />
